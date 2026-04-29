@@ -3659,7 +3659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "544cebee-7857-472e-88df-300ae502a22d")
-		(property "Reference" "C8"
+		(property "Reference" "C9"
 			(at 194.31 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3723,7 +3723,7 @@
 		(instances
 			(project "EffectsBase"
 				(path "/a2cd04b3-686a-4ef4-b876-d75449c48611/665024c4-4a51-499f-9e43-0b670d7e2fa3"
-					(reference "C8")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -3899,7 +3899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5839cc19-1a62-4b44-a5bb-7f8339d473a7")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR07"
 			(at 190.5 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -3959,7 +3959,7 @@
 		(instances
 			(project "EffectsBase"
 				(path "/a2cd04b3-686a-4ef4-b876-d75449c48611/665024c4-4a51-499f-9e43-0b670d7e2fa3"
-					(reference "#PWR08")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -4566,7 +4566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e525bf5-8853-4b3b-b371-356e2159f3f4")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR03"
 			(at 107.95 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4626,7 +4626,7 @@
 		(instances
 			(project "EffectsBase"
 				(path "/a2cd04b3-686a-4ef4-b876-d75449c48611/665024c4-4a51-499f-9e43-0b670d7e2fa3"
-					(reference "#PWR04")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -4807,7 +4807,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "986d6cc7-06e8-41e8-bcf8-0d0994bc0f2f")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 191.77 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4867,7 +4867,7 @@
 		(instances
 			(project "EffectsBase"
 				(path "/a2cd04b3-686a-4ef4-b876-d75449c48611/665024c4-4a51-499f-9e43-0b670d7e2fa3"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -4962,7 +4962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8957c30-5095-4165-bc4f-6282dde87bce")
-		(property "Reference" "C9"
+		(property "Reference" "C8"
 			(at 182.88 57.5309 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5026,7 +5026,7 @@
 		(instances
 			(project "EffectsBase"
 				(path "/a2cd04b3-686a-4ef4-b876-d75449c48611/665024c4-4a51-499f-9e43-0b670d7e2fa3"
-					(reference "C9")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -5753,7 +5753,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e4f6ee84-6341-4a33-ad2c-aeb9d832e959")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR04"
 			(at 111.76 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5813,7 +5813,7 @@
 		(instances
 			(project "EffectsBase"
 				(path "/a2cd04b3-686a-4ef4-b876-d75449c48611/665024c4-4a51-499f-9e43-0b670d7e2fa3"
-					(reference "#PWR02")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -5830,7 +5830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0d68f84-c026-4013-b89a-0c7f2cebe121")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR02"
 			(at 107.95 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -5890,7 +5890,7 @@
 		(instances
 			(project "EffectsBase"
 				(path "/a2cd04b3-686a-4ef4-b876-d75449c48611/665024c4-4a51-499f-9e43-0b670d7e2fa3"
-					(reference "#PWR03")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
