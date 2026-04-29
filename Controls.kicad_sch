@@ -3334,7 +3334,7 @@
 		(uuid "41df6fc6-0f88-4368-b7f7-c5f7b93325d5")
 	)
 	(no_connect
-		(at 224.79 106.68)
+		(at 224.79 101.6)
 		(uuid "47bac877-6438-474b-8e37-a324b4876e7b")
 	)
 	(no_connect
@@ -3342,7 +3342,7 @@
 		(uuid "4d284881-a678-4996-a78c-73c08a0cf398")
 	)
 	(no_connect
-		(at 229.87 96.52)
+		(at 229.87 93.98)
 		(uuid "61e18d51-676d-480c-a7d4-6f4ae4100418")
 	)
 	(no_connect
@@ -3358,7 +3358,7 @@
 		(uuid "6d97044d-fcb9-4e03-b354-d09b2be1f3ab")
 	)
 	(no_connect
-		(at 229.87 116.84)
+		(at 229.87 111.76)
 		(uuid "83b36584-e8bb-4c1d-ae5c-4f2e833987b3")
 	)
 	(no_connect
@@ -3386,18 +3386,8 @@
 		(uuid "e0713381-a574-40b2-9321-00dcfeeb443a")
 	)
 	(no_connect
-		(at 224.79 86.36)
+		(at 224.79 83.82)
 		(uuid "f928ed71-ecdc-469c-92d2-d58d887b1620")
-	)
-	(wire
-		(pts
-			(xy 185.42 88.9) (xy 222.25 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00107c2d-c251-460b-a221-9fa63feb7e4a")
 	)
 	(wire
 		(pts
@@ -3451,6 +3441,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 86.36) (xy 242.57 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06d3ceef-162d-41c4-b3f2-87d349087790")
+	)
+	(wire
+		(pts
 			(xy 125.73 91.44) (xy 123.19 91.44)
 		)
 		(stroke
@@ -3471,16 +3471,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 83.82) (xy 222.25 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c9645fd-b8cc-4623-b0fb-cf25f1df828a")
-	)
-	(wire
-		(pts
 			(xy 80.01 120.65) (xy 82.55 120.65)
 		)
 		(stroke
@@ -3488,16 +3478,6 @@
 			(type default)
 		)
 		(uuid "0e58b3f6-b966-4c2b-bab3-f10cfb1e3498")
-	)
-	(wire
-		(pts
-			(xy 190.5 104.14) (xy 190.5 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "111b519a-105a-44ad-8394-be04d3ce820c")
 	)
 	(wire
 		(pts
@@ -3518,16 +3498,6 @@
 			(type default)
 		)
 		(uuid "133efffa-6204-458b-a674-7037f7a9e78d")
-	)
-	(wire
-		(pts
-			(xy 224.79 91.44) (xy 190.5 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "148a0bd9-6f48-4670-af80-f577cd786e76")
 	)
 	(wire
 		(pts
@@ -3568,16 +3538,6 @@
 			(type default)
 		)
 		(uuid "1ed969c0-58f6-49c7-9c3b-ae388057c2c4")
-	)
-	(wire
-		(pts
-			(xy 237.49 88.9) (xy 237.49 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f07edd3-5c56-422e-9c0c-4873e3c0b0db")
 	)
 	(wire
 		(pts
@@ -3691,16 +3651,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 104.14) (xy 237.49 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c9ed96b-4e54-46ef-bc45-39e8fdf90f51")
-	)
-	(wire
-		(pts
 			(xy 81.28 52.07) (xy 57.15 52.07)
 		)
 		(stroke
@@ -3738,6 +3688,16 @@
 			(type default)
 		)
 		(uuid "3ffa57a2-d8e3-4a2b-a5e7-27cf8a4937ab")
+	)
+	(wire
+		(pts
+			(xy 185.42 88.9) (xy 224.79 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40bf8f8f-581a-41f2-bf8e-d9185c4c7256")
 	)
 	(wire
 		(pts
@@ -3788,16 +3748,6 @@
 			(type default)
 		)
 		(uuid "53b1a217-5ca2-413c-a181-10d5a0c7e2a2")
-	)
-	(wire
-		(pts
-			(xy 222.25 83.82) (xy 222.25 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "541315ab-ba94-4dfd-9bdd-ed32de5dc92a")
 	)
 	(wire
 		(pts
@@ -3858,16 +3808,6 @@
 			(type default)
 		)
 		(uuid "605467de-60a4-4529-8568-86534a22bdf1")
-	)
-	(wire
-		(pts
-			(xy 190.5 91.44) (xy 190.5 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62de2d20-86e3-440d-ae88-8038c0ce32bb")
 	)
 	(wire
 		(pts
@@ -4081,6 +4021,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 96.52) (xy 242.57 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b589fe4-c970-427a-badc-c63ec298ffa3")
+	)
+	(wire
+		(pts
 			(xy 130.81 99.06) (xy 152.4 99.06)
 		)
 		(stroke
@@ -4088,6 +4038,16 @@
 			(type default)
 		)
 		(uuid "8bb3c528-e847-4326-8b50-317637c4eed5")
+	)
+	(wire
+		(pts
+			(xy 185.42 106.68) (xy 224.79 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc3237a-2e80-4693-a55b-547917b059cb")
 	)
 	(wire
 		(pts
@@ -4148,16 +4108,6 @@
 			(type default)
 		)
 		(uuid "976cdcaf-c6b0-46ce-b475-c423af03d64f")
-	)
-	(wire
-		(pts
-			(xy 222.25 111.76) (xy 222.25 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9966291d-98b3-4d5e-bdca-11b33c00aa38")
 	)
 	(wire
 		(pts
@@ -4251,16 +4201,6 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 111.76) (xy 222.25 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aadebff3-e313-465e-9573-e6bd9ee1851e")
-	)
-	(wire
-		(pts
 			(xy 187.96 49.53) (xy 187.96 52.07)
 		)
 		(stroke
@@ -4321,6 +4261,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 86.36) (xy 242.57 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2ad3a35-0a4b-4da4-a95e-40d4ef477fbc")
+	)
+	(wire
+		(pts
 			(xy 185.42 123.19) (xy 187.96 123.19)
 		)
 		(stroke
@@ -4351,7 +4301,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 99.06) (xy 185.42 99.06)
+			(xy 185.42 99.06) (xy 242.57 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4391,7 +4341,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 109.22) (xy 237.49 104.14)
+			(xy 242.57 104.14) (xy 242.57 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4471,16 +4421,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 88.9) (xy 237.49 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d38845a5-c6a0-45fd-90ef-eeed0ecc5dbb")
-	)
-	(wire
-		(pts
 			(xy 149.86 55.88) (xy 152.4 55.88)
 		)
 		(stroke
@@ -4488,16 +4428,6 @@
 			(type default)
 		)
 		(uuid "d4c44650-f0fc-43f8-af03-9adfc69e43fe")
-	)
-	(wire
-		(pts
-			(xy 190.5 96.52) (xy 185.42 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d85d7ef2-9f54-4a88-b31a-712dfa65a288")
 	)
 	(wire
 		(pts
@@ -4518,16 +4448,6 @@
 			(type default)
 		)
 		(uuid "d9657769-559a-4297-aff9-9fca5c1bcfaf")
-	)
-	(wire
-		(pts
-			(xy 185.42 106.68) (xy 222.25 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da33e99c-eb14-41e4-a9e5-de136170847d")
 	)
 	(wire
 		(pts
@@ -4561,7 +4481,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 109.22) (xy 237.49 109.22)
+			(xy 234.95 104.14) (xy 242.57 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4749,6 +4669,16 @@
 		)
 		(uuid "407d4291-b31b-46b6-b3a0-bef6e490150f")
 	)
+	(label "SW3_IN"
+		(at 193.04 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4241e257-0808-4dda-878f-985476ce4919")
+	)
 	(label "AUDIO_OUT"
 		(at 80.01 115.57 180)
 		(effects
@@ -4760,7 +4690,7 @@
 		(uuid "430ace03-cad2-4eea-a013-04779d89acb0")
 	)
 	(label "SW3_NO"
-		(at 193.04 91.44 0)
+		(at 193.04 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4809,16 +4739,6 @@
 		)
 		(uuid "5f505c3d-fd8a-4eec-bbc6-930579b52779")
 	)
-	(label "SW3_IN"
-		(at 193.04 88.9 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "62341620-6e03-47bd-9b19-bbf74df1c5b1")
-	)
 	(label "P3_H"
 		(at 193.04 76.2 0)
 		(effects
@@ -4850,7 +4770,7 @@
 		(uuid "81305f4e-c75c-45eb-a462-ca329679d979")
 	)
 	(label "SW4_IN"
-		(at 193.04 104.14 0)
+		(at 193.04 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4991,7 +4911,7 @@
 	)
 	(symbol
 		(lib_id "Custom_Parts:SW_SPDT_MountingPin")
-		(at 229.87 88.9 0)
+		(at 229.87 86.36 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5002,7 +4922,7 @@
 		(dnp no)
 		(uuid "05a23077-1401-4506-af72-93c9c94e57a2")
 		(property "Reference" "SW3"
-			(at 229.87 80.01 0)
+			(at 236.22 89.662 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5012,7 +4932,7 @@
 			)
 		)
 		(property "Value" "MINI_SW"
-			(at 229.87 82.55 0)
+			(at 236.22 92.202 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5022,7 +4942,7 @@
 			)
 		)
 		(property "Footprint" "Custom_Parts:MINI_TOGGLE_SHIELD"
-			(at 229.87 88.9 0)
+			(at 229.87 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5033,7 +4953,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 96.52 0)
+			(at 229.87 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5044,7 +4964,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 229.87 88.9 0)
+			(at 229.87 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5155,7 +5075,7 @@
 	)
 	(symbol
 		(lib_id "Custom_Parts:SW_SPDT_MountingPin")
-		(at 229.87 109.22 0)
+		(at 229.87 104.14 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5166,7 +5086,7 @@
 		(dnp no)
 		(uuid "2dba0484-834f-4cf3-82a0-56a369218046")
 		(property "Reference" "SW4"
-			(at 229.87 100.33 0)
+			(at 235.966 107.442 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5176,7 +5096,7 @@
 			)
 		)
 		(property "Value" "MINI_SW"
-			(at 229.87 102.87 0)
+			(at 235.966 109.982 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5186,7 +5106,7 @@
 			)
 		)
 		(property "Footprint" "Custom_Parts:MINI_TOGGLE_SHIELD"
-			(at 229.87 109.22 0)
+			(at 229.87 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5197,7 +5117,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 116.84 0)
+			(at 229.87 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5208,7 +5128,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 229.87 109.22 0)
+			(at 229.87 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
