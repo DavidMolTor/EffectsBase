@@ -3214,6 +3214,12 @@
 		(uuid "2ebec6b1-d990-409c-9bad-ee8b7caca18b")
 	)
 	(junction
+		(at 187.96 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "392b6633-71e4-4af1-882f-c097af2514b6")
+	)
+	(junction
 		(at 149.86 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3224,12 +3230,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4fed90e2-77b1-4fbb-ad18-2188b2117250")
-	)
-	(junction
-		(at 187.96 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "711729a9-b3bd-45a4-bc37-be967b47d320")
 	)
 	(junction
 		(at 73.66 54.61)
@@ -3283,7 +3283,7 @@
 		(at 193.04 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bb5eb81f-41b2-4090-b7e4-3e7d7b82a8a4")
+		(uuid "c5df55dc-a629-4aa2-b81a-54055db588c7")
 	)
 	(junction
 		(at 187.96 123.19)
@@ -3491,7 +3491,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 35.56) (xy 193.04 55.88)
+			(xy 193.04 40.64) (xy 193.04 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4591,7 +4591,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 40.64) (xy 187.96 43.18)
+			(xy 187.96 35.56) (xy 187.96 43.18)
 		)
 		(stroke
 			(width 0)
@@ -4719,7 +4719,7 @@
 		)
 		(uuid "51de39b5-5e80-4686-a298-fb59935dc138")
 	)
-	(label "SW1_NO"
+	(label "SW1_NC"
 		(at 137.16 93.98 0)
 		(effects
 			(font
@@ -4789,7 +4789,7 @@
 		)
 		(uuid "87f54b6d-d84f-4bd9-b647-6933a3284878")
 	)
-	(label "SW1_NC"
+	(label "SW1_NO"
 		(at 137.16 88.9 0)
 		(effects
 			(font
@@ -5161,7 +5161,7 @@
 	)
 	(symbol
 		(lib_id "power:VSS")
-		(at 187.96 40.64 0)
+		(at 193.04 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5172,7 +5172,7 @@
 		(fields_autoplaced yes)
 		(uuid "30e7b25f-550b-4362-ad12-1e27a997acb4")
 		(property "Reference" "#PWR021"
-			(at 187.96 44.45 0)
+			(at 193.04 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5183,7 +5183,7 @@
 			)
 		)
 		(property "Value" "-VSS"
-			(at 187.96 35.56 0)
+			(at 193.04 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5193,7 +5193,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 40.64 0)
+			(at 193.04 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5204,7 +5204,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 40.64 0)
+			(at 193.04 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5215,7 +5215,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VSS\""
-			(at 187.96 40.64 0)
+			(at 193.04 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5950,7 +5950,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 193.04 35.56 0)
+		(at 187.96 35.56 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5960,7 +5960,7 @@
 		(dnp no)
 		(uuid "7c4644b9-43d5-4976-be8e-c43f2c462cf7")
 		(property "Reference" "#PWR023"
-			(at 193.04 39.37 0)
+			(at 187.96 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5971,7 +5971,7 @@
 			)
 		)
 		(property "Value" "+VCC_FILT"
-			(at 193.04 30.48 0)
+			(at 187.96 30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5981,7 +5981,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 193.04 35.56 0)
+			(at 187.96 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5992,7 +5992,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 193.04 35.56 0)
+			(at 187.96 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6003,7 +6003,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 193.04 35.56 0)
+			(at 187.96 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6189,6 +6189,7 @@
 	(symbol
 		(lib_id "Switch:SW_SPDT")
 		(at 130.81 91.44 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6196,7 +6197,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a364000f-d26f-4424-bb54-c1687bd9eb80")
 		(property "Reference" "SW1"
 			(at 130.81 82.55 0)
@@ -6230,7 +6230,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 99.06 0)
+			(at 130.81 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
